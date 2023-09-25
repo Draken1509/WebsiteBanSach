@@ -22,13 +22,14 @@
 </ul>
 
 
-<div align="center">
-
 # PHÂN CÔNG CÔNG VIỆC
+<ul>
   <li>Nguyễn Hữu Trung (https://github.com/Draken1509 ): Admin CRUD sản phẩm, xuất report, Nhập hàng</li>
   <li>Tống Duy Trường Đạt: User: đăng nhập, load sản phẩm, phân trang</li>
   <li>Biện Thanh Nhựt: User: Thanh toán</li>
   <li>Phan Thị Ánh Linh: Admin: Thống kê, duyệt đơn hàng</li>
+</ul>
+
 </div>
 
 
