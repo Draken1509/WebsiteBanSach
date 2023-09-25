@@ -1,3 +1,37 @@
+
+# APP ÔN THI BẰNG LÁI XE
+<p>Front-end: Html,css,JavaScript,bootstrap 4 </p>
+<p>Back-end: PHP</p>
+<p>Database: My Sql </p>
+
+
+>**Môn học:  Lập trình mã nguồn mở**
+
+<hr/>
+<p>Giảng viên hướng dẫn:</p>
+<ul>
+  <li>Nguyễn Hải Yến</li>
+</ul>
+<p>Member: 4</p> 
+<ul>
+
+  <li>Nguyễn Hữu Trung (https://github.com/Draken1509 )</li>
+  <li>Tống Duy Trường Đạt</li>
+  <li>Biện Thanh Nhựt</li>
+  <li>Phan Thị Ánh Linh</li>
+</ul>
+
+
+<div align="center">
+
+# PHÂN CÔNG CÔNG VIỆC
+  <li>Nguyễn Hữu Trung (https://github.com/Draken1509 ): Admin CRUD sản phẩm, xuất report, Nhập hàng</li>
+  <li>Tống Duy Trường Đạt: User: đăng nhập, load sản phẩm, phân trang</li>
+  <li>Biện Thanh Nhựt: User: Thanh toán</li>
+  <li>Phan Thị Ánh Linh: Admin: Thống kê, duyệt đơn hàng</li>
+</div>
+
+
 # WebsiteBanSach
 <p>  giao diện người dùng </p>
 
