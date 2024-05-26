@@ -1,6 +1,6 @@
 
 # Website bán sách
-<p>Front-end: Html,css,JavaScript,bootstrap 4 </p>
+<p>Front-end: Html,css,JavaScript,bootstrap </p>
 <p>Back-end: PHP</p>
 <p>Database: My Sql </p>
 
