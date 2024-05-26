@@ -1,11 +1,9 @@
-
+>**Môn học:  Lập trình mã nguồn mở**
 # Website bán sách
 <p>Front-end: Html,css,JavaScript,bootstrap </p>
 <p>Back-end: PHP</p>
 <p>Database: My Sql </p>
 
-
->**Môn học:  Lập trình mã nguồn mở**
 
 <hr/>
 <p>Giảng viên hướng dẫn:</p>
